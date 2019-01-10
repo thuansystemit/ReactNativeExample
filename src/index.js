@@ -14,9 +14,9 @@ const CitiesNav = createStackNavigator({
 }, {
     navigationOptions: {
         headerStyle: {
-            backgroundColor: '#f4511e',
+            backgroundColor: colors.primary,
         },
-        headerTintColor: 'royalblue',
+        headerTintColor: '#fff',
     }
 });
 
